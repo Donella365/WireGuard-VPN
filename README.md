@@ -57,19 +57,34 @@ This project demonstrates the implementation of a self-hosted VPN using WireGuar
   
   <img width="880" height="179" alt="Screenshot 13" src="https://github.com/user-attachments/assets/052c55ec-8a58-4463-a0a8-3d5caa761ba9" />
 
-  Update & install wireguard. Make your server and client keys.
+  Updated & installed wireguard. 
 
   <img width="259" height="39" alt="Screenshot 14" src="https://github.com/user-attachments/assets/a0c2c606-1d52-4b0b-84f0-6f91b3bd15cf" />
 
-
+  Made server and client keys.
 
   <img width="626" height="40" alt="Screenshot 15" src="https://github.com/user-attachments/assets/6306ef09-274a-4e58-b03c-2cf34c9c324f" />
 
+  <img width="579" height="42" alt="Screenshot 16" src="https://github.com/user-attachments/assets/87d64bc4-1b66-43cb-88c5-62784ea0d72a" />
 
+  Configured the Server:
+    Create WireGuard config file at /etc/wireguard/wg0.conf:
+    
+    <img width="940" height="464" alt="Screenshot 17" src="https://github.com/user-attachments/assets/094cf5d6-e90f-4145-8556-e89a65489e2a" />
 
-  Configure the Client:
+  Configured iptables: 
+  
+  Configured the Client:
 
   <img width="585" height="494" alt="Screenshot 12" src="https://github.com/user-attachments/assets/469c243b-f2ef-41a4-8e9c-3bd69501b8f8" />
 
+  Upped the wireguard interface in the command line:
 
+
+  Turned on the VPN:
+
+
+  Tested the VPN on the clinet to confirm everything is working
+
+  
 
