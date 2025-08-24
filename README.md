@@ -9,11 +9,7 @@ This project demonstrates the implementation of a self-hosted VPN using WireGuar
 - Create reusable configuration templates for multiple clients.  
 - Document the setup for reproducibility and portfolio demonstration.
 
-  ## Architecture
-- **Server:** DigitalOcean Droplet (Ubuntu 22.04 LTS)  
-- **VPN Protocol:** WireGuard (UDP, port 51820)  
-- **Addressing Scheme:** `10.0.0.0/24` subnet for VPN clients  
-- **Clients:** Configured via WireGuard app
+  
 
 ## ⚙️ Step-by-Step Setup
 
