@@ -41,8 +41,23 @@ This project demonstrates the implementation of a self-hosted VPN using WireGuar
 
   <img width="597" height="169" alt="Screenshot 6" src="https://github.com/user-attachments/assets/b49cfbdf-9a16-4530-a242-40c358d0ebbf" />
 
+  <img width="588" height="406" alt="Screenshot 7" src="https://github.com/user-attachments/assets/0df061b9-0024-410e-a7d1-cca9ff439864" />
 
+  Opened the pub file with notepad as my preferred text editor
+  
+  <img width="620" height="297" alt="Screenshot 8" src="https://github.com/user-attachments/assets/dad4d046-c4e0-45c5-863f-afc7826e8fc3" />
 
+  Copy the text and inserted it on digital ocean. Gave it a name.
+  
+  <img width="611" height="539" alt="Screenshot 9" src="https://github.com/user-attachments/assets/1b783d41-df1d-4b29-8aaa-0e71babd860c" />
 
+  <img width="595" height="204" alt="Screenshot 10" src="https://github.com/user-attachments/assets/a73a4003-2133-4811-b7d5-93011d65cb92" />
+
+  Added payment medthod and created droplet. 
+
+  <img width="661" height="121" alt="Screenshot 11" src="https://github.com/user-attachments/assets/0704d8cb-8460-4f6d-88ab-27a7c7e6f0cc" />
+
+  Once it finished loading I got the external IPv4 address. Then SSH into the droplet. 
+  
 
 
