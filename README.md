@@ -33,6 +33,15 @@ This project demonstrates the implementation of a self-hosted VPN using WireGuar
   
   <img width="623" height="322" alt="Screenshot4" src="https://github.com/user-attachments/assets/312e734f-a6c9-4060-ad73-5c36d1e12772" />
 
+  Made SSH key using the terminal (could also use puTTY)
+
+  <img width="620" height="283" alt="Screenshot 5" src="https://github.com/user-attachments/assets/65b35f37-bf3e-4ead-bacf-ea381d35321c" />
+
+  Added SSH key (recommended) (could also use a strong root password)
+
+  <img width="597" height="169" alt="Screenshot 6" src="https://github.com/user-attachments/assets/b49cfbdf-9a16-4530-a242-40c358d0ebbf" />
+
+
 
 
 
