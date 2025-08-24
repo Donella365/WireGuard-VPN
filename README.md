@@ -68,9 +68,9 @@ This project demonstrates the implementation of a self-hosted VPN using WireGuar
   <img width="579" height="42" alt="Screenshot 16" src="https://github.com/user-attachments/assets/87d64bc4-1b66-43cb-88c5-62784ea0d72a" />
 
   Configured the Server:
-    Create WireGuard config file at 
-    /etc/wireguard/wg0.conf:
-
+    Created WireGuard config file at   /etc/wireguard/wg0.conf:
+    Inserted the following
+    
     <img width="940" height="464" alt="Screenshot 17" src="https://github.com/user-attachments/assets/be57e958-4181-4443-91a2-3e7895d3b350" />
 
 
