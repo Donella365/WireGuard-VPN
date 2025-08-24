@@ -53,9 +53,17 @@ This project demonstrates the implementation of a self-hosted VPN using WireGuar
 
   <img width="661" height="121" alt="Screenshot 11" src="https://github.com/user-attachments/assets/0704d8cb-8460-4f6d-88ab-27a7c7e6f0cc" />
 
-  Once it finished loading I got the external IPv4 address. Then SSH into the droplet. 
+  Once it finished loading I got the external IPv4 address. Then SSH into the droplet. Ssh root@your_droplet_ip
+  
+  <img width="880" height="179" alt="Screenshot 13" src="https://github.com/user-attachments/assets/052c55ec-8a58-4463-a0a8-3d5caa761ba9" />
+
+  Update & install wireguard. Make your server and client keys.
+
+  <img width="259" height="39" alt="Screenshot 14" src="https://github.com/user-attachments/assets/a0c2c606-1d52-4b0b-84f0-6f91b3bd15cf" />
 
 
+
+  <img width="626" height="40" alt="Screenshot 15" src="https://github.com/user-attachments/assets/6306ef09-274a-4e58-b03c-2cf34c9c324f" />
 
 
 
