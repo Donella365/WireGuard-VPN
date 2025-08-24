@@ -49,11 +49,19 @@ This project demonstrates the implementation of a self-hosted VPN using WireGuar
 
   <img width="595" height="204" alt="Screenshot 10" src="https://github.com/user-attachments/assets/a73a4003-2133-4811-b7d5-93011d65cb92" />
 
-  Added payment medthod and created droplet. 
+  Added payment method and created droplet. 
 
   <img width="661" height="121" alt="Screenshot 11" src="https://github.com/user-attachments/assets/0704d8cb-8460-4f6d-88ab-27a7c7e6f0cc" />
 
   Once it finished loading I got the external IPv4 address. Then SSH into the droplet. 
-  
+
+
+
+
+
+  Configure the Client:
+
+  <img width="585" height="494" alt="Screenshot 12" src="https://github.com/user-attachments/assets/469c243b-f2ef-41a4-8e9c-3bd69501b8f8" />
+
 
 
